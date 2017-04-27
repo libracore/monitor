@@ -11,9 +11,11 @@ ERPNext installation
 
 #### Installation
 Run 
- $ cd /home/frappe/frappe-bench
- $ sudo bench get-app monitor https://github.com/libracore/monitor.git
- $ sudo bench install-app monitor
+```
+$ cd /home/frappe/frappe-bench
+$ sudo bench get-app monitor https://github.com/libracore/monitor.git
+$ sudo bench install-app monitor</code>
+```
 
 #### License
 
