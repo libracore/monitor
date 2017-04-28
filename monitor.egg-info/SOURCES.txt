@@ -17,6 +17,7 @@ monitor/config/__init__.py
 monitor/config/desktop.py
 monitor/config/docs.py
 monitor/monitor/__init__.py
+monitor/monitor/doctype/__init__.py
 monitor/templates/__init__.py
 monitor/templates/generators/__init__.py
 monitor/templates/pages/__init__.py
