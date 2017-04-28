@@ -1,0 +1,22 @@
+{
+ "content": null, 
+ "creation": "2017-04-28 20:16", 
+ "docstatus": 0, 
+ "doctype": "Page", 
+ "idx": 0, 
+ "modified": "2017-04-28 20:17", 
+ "modified_by": "Administrator", 
+ "module": "Monitor", 
+ "name": "sensor_dashboard", 
+ "owner": "Administrator", 
+ "page_name": "sensor_dashboard", 
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ], 
+ "script": null, 
+ "standard": "No", 
+ "style": null, 
+ "title": "Sensor dashboard"
+}
