@@ -1,1 +1,11 @@
 /.project
+*.pyc
+*.py~
+*.comp.js
+*.DS_Store
+.wnf-lang-status
+*.swp
+*.egg-info
+dist/
+build/
+
