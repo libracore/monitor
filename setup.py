@@ -17,7 +17,7 @@ setup(
 	version=version,
 	description='Environmental monitor app',
 	author='Libracore AG',
-	author_email='lars.mueller@hseag.com',
+	author_email='lars.mueller@libracore.com',
 	packages=find_packages(),
 	zip_safe=False,
 	include_package_data=True,
