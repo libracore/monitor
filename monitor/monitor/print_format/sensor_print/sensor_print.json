@@ -1,0 +1,22 @@
+{
+ "align_labels_right": 0, 
+ "creation": "2018-03-13 09:44:53.240003", 
+ "custom_format": 1, 
+ "disabled": 0, 
+ "doc_type": "Sensor", 
+ "docstatus": 0, 
+ "doctype": "Print Format", 
+ "font": "Default", 
+ "html": "<h1>Sensor: {{ doc.name }}</h1>\n{{ doc.chart_time }}<br>\n{{ doc.chart_temperature }}<br>", 
+ "idx": 0, 
+ "line_breaks": 0, 
+ "modified": "2018-03-13 10:24:44.016313", 
+ "modified_by": "Administrator", 
+ "module": "Monitor", 
+ "name": "Sensor print", 
+ "owner": "Administrator", 
+ "print_format_builder": 1, 
+ "print_format_type": "Server", 
+ "show_section_headings": 0, 
+ "standard": "Yes"
+}
